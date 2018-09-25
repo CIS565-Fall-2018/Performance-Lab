@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnalysisReport Version="1.0">
+  <ProcessId>13036</ProcessId>
+  <ReportCreationTime>2018-09-23T20:57:18.9249943-04:00</ReportCreationTime>
+  <ReportDirectory>c:\temp\transpose.complete180923_001\transpose.complete180923_001_Capture_000</ReportDirectory>
+  <ReportFile>c:\temp\transpose.complete180923_001\transpose.complete180923_001_Capture_000\transpose.complete180923_001_Capture_000.nvreport</ReportFile>
+  <CaptureStartQpcTimestamp>365909692054</CaptureStartQpcTimestamp>
+  <CaptureStartNveTimestamp>124319487141549</CaptureStartNveTimestamp>
+  <CaptureStartNveFrequency>3394000000</CaptureStartNveFrequency>
+  <CaptureEndQpcTimestamp>366028877949</CaptureEndQpcTimestamp>
+  <CaptureEndNveTimestamp>124359934973799</CaptureEndNveTimestamp>
+  <CaptureStartRdtscTimestamp>124319487141617</CaptureStartRdtscTimestamp>
+  <CaptureEndRdtscTimestamp>124359934975601</CaptureEndRdtscTimestamp>
+  <CaptureStartFileTimeTimestamp>131822242390950318</CaptureStartFileTimeTimestamp>
+  <CaptureEndFileTimeTimestamp>131822242510131443</CaptureEndFileTimeTimestamp>
+</AnalysisReport>

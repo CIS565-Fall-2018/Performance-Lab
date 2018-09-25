@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnalysisReport Version="1.0">
+  <ProcessId>16700</ProcessId>
+  <ReportCreationTime>2018-09-23T21:05:36.9857491-04:00</ReportCreationTime>
+  <ReportDirectory>c:\temp\reduction.recursive180923_001\reduction.recursive180923_001_Capture_000</ReportDirectory>
+  <ReportFile>c:\temp\reduction.recursive180923_001\reduction.recursive180923_001_Capture_000\reduction.recursive180923_001_Capture_000.nvreport</ReportFile>
+  <CaptureStartQpcTimestamp>370890316781</CaptureStartQpcTimestamp>
+  <CaptureStartNveTimestamp>126009749757783</CaptureStartNveTimestamp>
+  <CaptureStartNveFrequency>3394000000</CaptureStartNveFrequency>
+  <CaptureEndQpcTimestamp>371572629338</CaptureEndQpcTimestamp>
+  <CaptureEndNveTimestamp>126241304528581</CaptureEndNveTimestamp>
+  <CaptureStartRdtscTimestamp>126009749757851</CaptureStartRdtscTimestamp>
+  <CaptureEndRdtscTimestamp>126241304530893</CaptureEndRdtscTimestamp>
+  <CaptureStartFileTimeTimestamp>131822247371577485</CaptureStartFileTimeTimestamp>
+  <CaptureEndFileTimeTimestamp>131822248053882314</CaptureEndFileTimeTimestamp>
+</AnalysisReport>

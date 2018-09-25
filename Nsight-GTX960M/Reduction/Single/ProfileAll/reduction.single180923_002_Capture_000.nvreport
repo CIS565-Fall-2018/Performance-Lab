@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnalysisReport Version="1.0">
+  <ProcessId>9148</ProcessId>
+  <ReportCreationTime>2018-09-23T21:39:14.6831497-04:00</ReportCreationTime>
+  <ReportDirectory>c:\temp\reduction.single180923_002\reduction.single180923_002_Capture_000</ReportDirectory>
+  <ReportFile>c:\temp\reduction.single180923_002\reduction.single180923_002_Capture_000\reduction.single180923_002_Capture_000.nvreport</ReportFile>
+  <CaptureStartQpcTimestamp>5188720038</CaptureStartQpcTimestamp>
+  <CaptureStartNveTimestamp>1419526162542</CaptureStartNveTimestamp>
+  <CaptureStartNveFrequency>2592000000</CaptureStartNveFrequency>
+  <CaptureEndQpcTimestamp>8508314970</CaptureEndQpcTimestamp>
+  <CaptureEndNveTimestamp>2279964884910</CaptureEndNveTimestamp>
+  <CaptureStartRdtscTimestamp>1419526162596</CaptureStartRdtscTimestamp>
+  <CaptureEndRdtscTimestamp>2279964886230</CaptureEndRdtscTimestamp>
+  <CaptureStartFileTimeTimestamp>131822267549111345</CaptureStartFileTimeTimestamp>
+  <CaptureEndFileTimeTimestamp>131822270868668717</CaptureEndFileTimeTimestamp>
+</AnalysisReport>
